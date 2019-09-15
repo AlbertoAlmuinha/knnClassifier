@@ -1,0 +1,12 @@
+Package: knnClassifier
+Type: Package
+Date: 2019-09-15
+Title: K-Nearest Neighbor Algorithm for Classification
+Version: 0.1.0
+Author: Alberto Almuiña
+Maintainer: Alberto Almuiña <albertogonzalezalmuinha@gmail.com>
+Description: Preprocess data, knn algorithm application, hyper parameter tuning
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
