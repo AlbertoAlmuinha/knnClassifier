@@ -9,7 +9,7 @@ create_data_partition(data, p_train)
 \arguments{
 \item{data}{Dataframe that will be used}
 
-\item{p_train}{% of data that will be used as train}
+\item{p_train}{Percentage of data that will be used as train}
 }
 \value{
 Returns a list of length 2 with the train and the test datasets
