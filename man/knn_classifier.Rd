@@ -11,7 +11,7 @@ knn_classifier(data = NULL, p_train = NULL, train = NULL,
 \arguments{
 \item{data}{Dataframe that will be used}
 
-\item{p_train}{% of rows that will be used as train}
+\item{p_train}{Percentage of rows that will be used as train}
 
 \item{train}{Dataset used as train set (Only when data and p_train are NULL)}
 
